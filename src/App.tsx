@@ -1,12 +1,8 @@
 import React from "react";
-import DualTextBox from "./components/TextBox";
+import Book from "./components/Book";
 
 function App() {
-  return (
-    <div>
-      <DualTextBox maxLength={100} />
-    </div>
-  );
+  return <Book />;
 }
 
 export default App;
