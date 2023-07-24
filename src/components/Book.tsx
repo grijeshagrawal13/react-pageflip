@@ -6,7 +6,7 @@ import "./Book.css";
 var sentences= [
   'so fat not even Dora can explore her so fat not even Dora can explore her eoauaeu shtaeusaheosun so fat not even Dora can explore her so fat not even Dora can explore her eoauaeu shtaeusaheosun so fat not even Dora can explore her so fat not even Dora can explore her eoauaeu shtaeusaheosun so fat not even Dora can explore her so fat not even Dora can explore her eoauaeu shtaeusaheosun so fat not even Dora can explore her so fat not even Dora can explore her eoauaeu shtaeusaheosun so fat not even Dora can explore her so fat not even Dora can explore her eoauaeu shtaeusaheosun so fat not even Dora can explore her so fat not even Dora can explore her eoauaeu shtaeusaheosun so fat not even Dora can explore her so fat not even Dora can explore her eoauaeu shtaeusaheosun so fat not even Dora can explore her so fat not even Dora can explore her eoauaeu shtaeusaheosun so fat not even Dora can explore her so fat not even Dora can explore her eoauaeu shtaeusaheosun so fat not even Dora can explore her so fat not even Dora can explore her eoauaeu shtaeusaheosun so fat not even Dora can explore her so fat not even Dora can explore her eoauaeu shtaeusaheosun so fat not even Dora can explore her so fat not even Dora can explore her eoauaeu shtaeusaheosun so fat not even Dora can explore her so fat not even Dora can explore her eoauaeu shtaeusaheosun so fat not even Dora can explore her so fat not even Dora can explore her eoauaeu shtaeusaheosun so fat not even Dora can explore her so fat not even Dora can explore her eoauaeu shtaeusaheosun so fat not even Dora can explore her so fat not even Dora can explore her eoauaeu shtaeusaheosun so fat not even Dora can explore her so fat not even Dora can explore her eoauaeu shtaeusaheosun so fat not even Dora can explore her so fat not even Dora can explore her eoauaeu shtaeusaheosun so fat not even Dora can explore her so fat not even Dora can explore her eoauaeu shtaeusaheosun so fat not even Dora can explore her so fat not even Dora can explore her eoauaeu shtaeusaheosun so fat not even Dora can explore her so fat not even Dora can explore her eoauaeu shtaeusaheosun so fat not even Dora can explore her so fat not even Dora can explore her eoauaeu shtaeusaheosun so fat not even Dora can explore her so fat not even Dora can explore her eoauaeu shtaeusaheosun so fat not even Dora can explore her so fat not even Dora can explore her eoauaeu shtaeusaheosun so fat not even Dora can explore her so fat not even Dora can explore her eoauaeu shtaeusaheosun so fat not even Dora can explore her so fat not even Dora can explore her eoauaeu shtaeusaheosun so fat not even Dora can explore her so fat not even Dora can explore her eoauaeu shtaeusaheosun so fat not even Dora can explore her so fat not even Dora can explore her eoauaeu shtaeusaheosun so fat not even Dora can explore her so fat not even Dora can explore her eoauaeu shtaeusaheosun so fat not even Dora',
   'so fat not even Dora can explore her so fat not even Dora can explore her eoauaeu shtaeusaheosun so fat not even Dora can explore her so fat not even Dora can explore her eoauaeu shtaeusaheosun so fat not even Dora can explore her so fat not even Dora can explore her eoauaeu shtaeusaheosun so fat not even Dora can explore her so fat not even Dora can explore her eoauaeu shtaeusaheosun so fat not even Dora can explore her so fat not even Dora can explore her eoauaeu shtaeusaheosun so fat not even Dora can explore her so fat not even Dora can explore her eoauaeu shtaeusaheosun so fat not even Dora can explore her so fat not even Dora can explore her eoauaeu shtaeusaheosun so fat not even Dora can explore her so fat not even Dora can explore her eoauaeu shtaeusaheosun so fat not even Dora can explore her so fat not even Dora can explore her eoauaeu shtaeusaheosun so fat not even Dora can explore her so fat not even Dora can explore her eoauaeu shtaeusaheosun so fat not even Dora can explore her so fat not even Dora can explore her eoauaeu shtaeusaheosun so fat not even Dora can explore her so fat not even Dora can explore her eoauaeu shtaeusaheosun so fat not even Dora can explore her so fat not even Dora can explore her eoauaeu shtaeusaheosun so fat not even Dora can explore her so fat not even Dora can explore her eoauaeu shtaeusaheosun so fat not even Dora can explore her so fat not even Dora can explore her eoauaeu shtaeusaheosun so fat not even Dora can explore her so fat not even Dora can explore her eoauaeu shtaeusaheosun so fat not even Dora can explore her so fat not even Dora can explore her eoauaeu shtaeusaheosun so fat not even Dora can explore her so fat not even Dora can explore her eoauaeu shtaeusaheosun so fat not even Dora can explore her so fat not even Dora can explore her eoauaeu shtaeusaheosun so fat not even Dora can explore her so fat not even Dora can explore her eoauaeu shtaeusaheosun so fat not even Dora can explore her so fat not even Dora can explore her eoauaeu shtaeusaheosun so fat not even Dora can explore her so fat not even Dora can explore her eoauaeu shtaeusaheosun so fat not even Dora can explore her so fat not even Dora can explore her eoauaeu shtaeusaheosun so fat not even Dora can explore her so fat not even Dora can explore her eoauaeu shtaeusaheosun so fat not even Dora can explore her so fat not even Dora can explore her eoauaeu shtaeusaheosun so fat not even Dora can explore her so fat not even Dora can explore her eoauaeu shtaeusaheosun so fat not even Dora can explore her so fat not even Dora can explore her eoauaeu shtaeusaheosun so fat not even Dora can explore her so fat not even Dora can explore her eoauaeu shtaeusaheosun so fat not even Dora can explore her so fat not even Dora can explore her eoauaeu shtaeusaheosun so fat not even Dora can explore her so fat not even Dora can explore her eoauaeu shtaeusaheosun so fat not even Dora',
-  'so smelly she put on Right Guard and it went left',
+  'so fat not even Dora can explore her so fat not even Dora can explore her eoauaeu shtaeusaheosun so fat not even Dora can explore her so fat not even Dora can explore her eoauaeu shtaeusaheosun so fat not even Dora can explore her so fat not even Dora can explore her eoauaeu shtaeusaheosun so fat not even Dora can explore her so fat not even Dora can explore her eoauaeu shtaeusaheosun so fat not even Dora can explore her so fat not even Dora can explore her eoauaeu shtaeusaheosun so fat not even Dora can explore her so fat not even Dora can explore her eoauaeu shtaeusaheosun so fat not even Dora can explore her so fat not even Dora can explore her eoauaeu shtaeusaheosun so fat not even Dora can explore her so fat not even Dora can explore her eoauaeu shtaeusaheosun so fat not even Dora can explore her so fat not even Dora can explore her eoauaeu shtaeusaheosun so fat not even Dora can explore her so fat not even Dora can explore her eoauaeu shtaeusaheosun so fat not even Dora can explore her so fat not even Dora can explore her eoauaeu shtaeusaheosun so fat not even Dora can explore her so fat not even Dora can explore her eoauaeu shtaeusaheosun so fat not even Dora can explore her so fat not even Dora can explore her eoauaeu shtaeusaheosun so fat not even Dora can explore her so fat not even Dora can explore her eoauaeu shtaeusaheosun so fat not even Dora can explore her so fat not even Dora can explore her eoauaeu shtaeusaheosun so fat not even Dora can explore her so fat not even Dora can explore her eoauaeu shtaeusaheosun so fat not even Dora can explore her so fat not even Dora can explore her eoauaeu shtaeusaheosun so fat not even Dora can explore her so fat not even Dora can explore her eoauaeu shtaeusaheosun so fat not even Dora can explore her so fat not even Dora can explore her eoauaeu shtaeusaheosun so fat not even Dora can explore her so fat not even Dora can explore her eoauaeu shtaeusaheosun so fat not even Dora can explore her so fat not even Dora can explore her eoauaeu shtaeusaheosun so fat not even Dora can explore her so fat not even Dora can explore her eoauaeu shtaeusaheosun so fat not even Dora can explore her so fat not even Dora can explore her eoauaeu shtaeusaheosun so fat not even Dora can explore her so fat not even Dora can explore her eoauaeu shtaeusaheosun so fat not even Dora can explore her so fat not even Dora can explore her eoauaeu shtaeusaheosun so fat not even Dora can explore her so fat not even Dora can explore her eoauaeu shtaeusaheosun so fat not even Dora can explore her so fat not even Dora can explore her eoauaeu shtaeusaheosun so fat not even Dora can explore her so fat not even Dora can explore her eoauaeu shtaeusaheosun so fat not even Dora can explore her so fat not even Dora can explore her eoauaeu shtaeusaheosun so fat not even Dora can explore her so fat not even Dora can explore her eoauaeu shtaeusaheosun so fat not even Dora',
   'so fat she hasn’t got cellulite, she’s got celluheavy',
   'so fat she don’t need no internet – she’s already world wide',
   'so hair her armpits look like Don King in a headlock',
@@ -24,7 +24,7 @@ var sentences= [
 
 const PageCover = React.forwardRef((props: any, ref: any) => {
   return (
-    <div className={"page page-cover page-cover-" + props.pos } ref={ref} data-density="hard">
+    <div className={"page page-cover page-cover-" + props.pos } ref={ref} data-density="soft">
       <div className="page-content">
         <h2>{props.children}</h2>
       </div>
@@ -34,8 +34,8 @@ const PageCover = React.forwardRef((props: any, ref: any) => {
 
 const Page = React.forwardRef((props: any, ref: any) => {
   return (
-    <div className="page" ref={ref} data-density={props.density || "soft"}>
-      <div className="page-content" style={{ height: '100%' }}>
+    <div className="page" ref={ref} data-density={"soft"}>
+      <div className="page-content" style={{ height: '100%', width: '100%', position: 'absolute' }}>
         <h2 className="page-header">Page header - {props.number}</h2>
         <div
           className="page-image"
@@ -134,9 +134,9 @@ class DemoBlock extends React.Component {
           {/* @ts-ignore */}
           <HTMLFlipBook
             width={550}
-            height={733}
+            height={500}
             maxShadowOpacity={0.5}
-            showCover={true}
+            // showCover={true}
             mobileScrollSupport={true}
             // @ts-ignore
             useMouseEvents={!this.state.editMode}
@@ -162,6 +162,7 @@ class DemoBlock extends React.Component {
         readOnly={!this.state.editMode}
         onChange={e => {
           const selectionEnd = e.target.selectionEnd;
+          // console.log(e.target.value);
           // console.log(e.target.selectionEnd);
           if (e.target.clientHeight < e.target.scrollHeight) {
             const page2 = e.target.value.substring(e.target.value.lastIndexOf(' ') + 1)
@@ -170,7 +171,7 @@ class DemoBlock extends React.Component {
               page2,
               page, () => {
                 // e.target.focus()
-                if (page % 2 === 0) {
+                if (page % 2 === 1) {
                   this.nextButtonClick();
                   const nextEl = document.getElementById("page" + (page + 1));
                   console.log(nextEl)
@@ -206,7 +207,7 @@ class DemoBlock extends React.Component {
         value={this.state.sentences[page]}
         style={{ outline: 'none', border: 'none',
         overflow: 'hidden',
-        resize: 'none', width: '100%', height: '100%' }}></textarea>
+        resize: 'none', width: '100%', height: 400 }}></textarea>
                 </Page>)
             })}
           </HTMLFlipBook>
